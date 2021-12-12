@@ -1,0 +1,8 @@
+{
+    "autoload": {
+        "\\App": "\\App"
+    },
+    "require": {
+        "symfony/console": "^5.4"
+    }
+}
